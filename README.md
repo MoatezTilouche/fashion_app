@@ -42,7 +42,7 @@ Fashion app  is a Flutter-based mobile application that serves as the frontend f
    cd fashionista-flutter
 2. Install dependencies:
   ```bash
-  flutter pub ge
+  flutter pub get
   ```
 3. Update backend URL:
   Open the configuration file and replace `YOUR_BACKEND_URL` with your backend API URL.
@@ -80,6 +80,12 @@ The app communicates with a Flask-based backend API to:
 3. Display the results in a user-friendly format.
 
 4. Ensure the backend is running and accessible before using the app.
+
+## Backend Repository
+
+The backend for this project is available in the following repository:  
+[**fashion_back**](https://github.com/Ahmed5827/fashion_back)
+
 
 ### License:
 This project is licensed under the MIT License.
